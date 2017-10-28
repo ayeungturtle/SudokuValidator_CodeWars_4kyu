@@ -1,5 +1,6 @@
 # Sudoku Validator
 ## To see the code, open the folder and open "Program.cs."
+## I'll have to come back to this later with more knowledge to make it more efficient.
 ## ALGORITHMS   -   DATA STRUCTURES -   VALIDATION
 
 
